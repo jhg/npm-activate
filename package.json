@@ -1,0 +1,27 @@
+{
+  "name": "activate",
+  "version": "0.0.0",
+  "description": "NPM activate local environment tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhg/npm-activate.git"
+  },
+  "keywords": [
+    "local",
+    "env",
+    "environment",
+    "virtualenv",
+    "localenv",
+    "activate"
+  ],
+  "author": "see AUTHORS.md",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jhg/npm-activate/issues"
+  },
+  "homepage": "https://github.com/jhg/npm-activate#readme"
+}
