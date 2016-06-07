@@ -2,7 +2,6 @@
   "name": "activate",
   "version": "0.0.0",
   "description": "NPM activate local environment tool",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
