@@ -1,7 +1,10 @@
 {
   "name": "activate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NPM activate local environment tool",
+  "bin": {
+    "activate": "bin/activate"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +14,7 @@
   },
   "keywords": [
     "local",
-    "env",
+	"bin",
     "environment",
     "virtualenv",
     "localenv",
